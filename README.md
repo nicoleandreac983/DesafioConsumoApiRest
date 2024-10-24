@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Chat el cual selecciona usuarios de una api random user
+
+![chatvue](https://github.com/user-attachments/assets/aa6a783f-595a-441c-829d-f200a022171d)
+
